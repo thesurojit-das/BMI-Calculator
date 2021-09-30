@@ -1,6 +1,5 @@
 # BMI-Calculator   
-Body Mass Index calculator gives out the BMI value and categorizes BMI based on provided information 
-BMI Categories:
+Body Mass Index Calculator Categories:
 Underweight = <18.5
 Normal weight = 18.5–24.9
 Overweight = 25–29.9
