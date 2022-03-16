@@ -31,7 +31,7 @@ function cal()
         else if (b>=35  &&b<40){
             document.getElementById("remark").innerHTML="Obese Class II"    
         }
-        else{
+        else if (b>=40){
             document.getElementById("remark").innerHTML="Obese Class III" 
         } 
 }
