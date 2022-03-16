@@ -1,7 +1,9 @@
 <h1 align="center">BMI-Calculator</h1>
-This BMI Calculator is created by using C language as well as HTML , CSS and JS concept also .
 
-Please check out the page 
+This BMI Calculator is created by using C language as well as HTML , CSS and JS concept also.
+
+
+Please check out the page       <a href="https://thesurojit-das.github.io/BMI-Calculator/"> BMI CALCULATOR</a>
 
 Body Mass Index Calculator Categories:
 
